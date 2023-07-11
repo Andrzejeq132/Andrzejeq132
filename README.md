@@ -1,7 +1,7 @@
-<h1>👋 Hi, I'm @Andrzejeq132</h1>
-🌱 I’m currently learning everything 🤣
-- 💞️ I’m looking to collaborate on "I'm not looking for a collaboration right now"</li>
-- 📫 How to reach me "Discord: @andrzejeq132  (old: Andrzejeq132#7368 )</li>
+<h1>👋 Hi, I'm @Andrzejeq132</h1><br>
+🌱 I’m currently learning everything 🤣<br>
+- 💞️ I’m looking to collaborate on "I'm not looking for a collaboration right now"<br><br>
+ <h3>📫 How to reach me "Discord: @andrzejeq132  (old: Andrzejeq132#7368 )</h3>
 
 <br> <br> 
 Languages and Tools: <br>
