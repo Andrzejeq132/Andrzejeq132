@@ -4,11 +4,6 @@
 - 💞️ I’m looking to collaborate on: I'm not looking for a collaboration right now
  <h3>📫 How to reach me: "Discord: @andrzejeq132  (old: Andrzejeq132#7368 )</h3>
 
-### SocialMedia/ with me:
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-
 <br /> <br />
 
 ### Languages and Tools:
@@ -29,4 +24,3 @@
 [JS]: https://pl.wikipedia.org/wiki/JavaScript
 [php]: https://pl.wikipedia.org/wiki/PHP
 [github]: https://github.com
-[youtube]: https://www.youtube.com/channel/@andrzejeq132
