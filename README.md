@@ -9,7 +9,7 @@
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
-<br />
+<br /> <br />
 
 ### Languages and Tools:
 
@@ -22,18 +22,11 @@
 
 
 
-<!-- [website]: https://localhost:5500 -->
+[website]: https://github.com/Andrzejeq132
 [visual]: https://code.visualstudio.com
 [HTML5]: https://pl.wikipedia.org/wiki/HTML5
-[CSS]: [https://pl.wikipedia.org/wiki/HTML5](https://developer.mozilla.org/en-US/docs/Web/CSS?retiredLocale=pl)
+[CSS]: https://pl.wikipedia.org/wiki/HTML5](https://developer.mozilla.org/en-US/docs/Web/CSS?retiredLocale=pl)
 [JS]: https://pl.wikipedia.org/wiki/JavaScript
 [php]: https://pl.wikipedia.org/wiki/PHP
 [github]: https://github.com
-[youtube]: https://www.youtube.com/channel/andrzejeq132
-[instagram]: https://www.instagram.com/andrzejeq132/
-
-
-<!---
-Andrzejeq132/Andrzejeq132 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[youtube]: https://www.youtube.com/channel/@andrzejeq132
