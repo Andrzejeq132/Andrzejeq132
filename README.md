@@ -20,7 +20,7 @@
 [website]: https://github.com/Andrzejeq132
 [visual]: https://code.visualstudio.com
 [HTML5]: https://pl.wikipedia.org/wiki/HTML5
-[CSS]: https://pl.wikipedia.org/wiki/HTML5](https://developer.mozilla.org/en-US/docs/Web/CSS?retiredLocale=pl)
+[CSS]: https://developer.mozilla.org/en-US/docs/Web/CSS?retiredLocale=pl
 [JS]: https://pl.wikipedia.org/wiki/JavaScript
 [php]: https://pl.wikipedia.org/wiki/PHP
 [github]: https://github.com
